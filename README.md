@@ -13,7 +13,7 @@ This project is a web application designed as a capstone for the ITI graduation.
 - **Admin Dashboard**:
   - **Product Management**: Admins can add, delete, update, and view products using custom hooks tailored for each operation.
   - **User Management**: Admins have the ability to manage user accounts, including deletion of users.
-  
+## YOU CAN WATCH THE PROJECT FROM HERE  
 ## Technologies Used
 
 - **React**: For building the user interface.
