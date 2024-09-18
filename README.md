@@ -21,6 +21,10 @@ This project is a web application designed as a capstone for the ITI graduation.
 - **Styled Components**: Used for component-level custom styles.
 - **Redux**: For global state management, particularly for cart operations.
 
+## demo
+- ## [Live Demo](https://drive.google.com/file/d/1wzNlLTAUUQ0QaiLDGiNLhmB-oFgIXbif/view?usp=sharing)
+
+
 ## Getting Started
 
 To get started with this project, clone the repository and install the dependencies:
